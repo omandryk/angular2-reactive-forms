@@ -1,0 +1,15 @@
+# Mac OS
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+#VS Code
+.vscode
+
+dist
+jspm_packages
+typings
+node_modules
